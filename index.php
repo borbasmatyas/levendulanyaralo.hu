@@ -53,7 +53,7 @@ endif;
   <body>
 
 
-      <main class="main-center rounded-main">
+      <main class="main-center">
         <h1>Levendula nyaraló - Orfű</h1>
       <nav>
           <ul>
