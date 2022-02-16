@@ -125,9 +125,6 @@ nav ul li {
       color: white;
     }
 
-
-
-
 footer {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 0.8rem;
@@ -255,10 +252,14 @@ img.szovegkozi {
 
 @media only screen and (max-width: 850px) {
 
-
-
   header a {
     font-size: 4rem;
     bottom: -0.5rem;
   }
+
+  nav ul li {
+    font-weight: 300;
+    font-size: 1rem;
+  }
+
 }
