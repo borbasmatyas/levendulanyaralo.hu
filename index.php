@@ -57,10 +57,7 @@ endif;
   <body>
 
       <header>
-        <a hfref="/">
-          Levendula nyaraló<br>
-          Orfű
-        </a>
+        <a hfref="/">Levendula nyaraló</a>
       </header>
       <nav>
           <ul>
