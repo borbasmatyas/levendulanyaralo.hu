@@ -50,9 +50,10 @@ endif;
   </head>
 
   <body>
+      <div id="info">Az oldal jelenleg feltöltés alatt áll.</div>
+
       <main class="main-center rounded-main">
-        <h1>Levendula nyaraló</h1>
-        <h2>Orfű</h2>
+        <h1>Levendula nyaraló - Orfű</h1>
       <nav>
           <ul>
             <li><a href="/">Főoldal</a></li>

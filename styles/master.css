@@ -16,6 +16,15 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+div.info {
+  width: 100%;
+  position: absolute;
+  top:0px;
+  background-color: #ca0000;
+  color:white;
+  padding: 2px 2px 2px 2px;
+}
+
 main {
   background-color: white;
   border: 1px solid #f3f3f3;
