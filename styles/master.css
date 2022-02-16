@@ -22,7 +22,8 @@ div#info {
   top:0px;
   background-color: #ca0000;
   color:white;
-  padding: 2px 2px 2px 2px;
+  padding: 4px 4px 4px 4px;
+  text-align: center;
 }
 
 main {
