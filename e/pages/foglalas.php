@@ -1,6 +1,6 @@
 <div style="clear:both;">
 <!-- Naptár -->
-<iframe width="100%" height="500px" jsname="L5Fo6c" class="YMEQtf KfXz0b" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads allow-modals" aria-label="Calendar" src="https://www.google.com/calendar/embed?color=%23668CD9&amp;deb=-&amp;embed_style=WyJhdDplbWI6c3QiLCIjZTBlMGUwIiwiI2VkZWRlZCIsIiM0MTg0ZjMiLCJyb2JvdG8iLCIjNjM2MzYzIiw1MDAsIiNmZmYiXQo&amp;eopt=0&amp;mode=agenda&amp;showCalendars=1&amp;showPrint=0&amp;showTz=0&amp;src=5pgkjr0jgqkn0kkimo00tlij5o@group.calendar.google.com" allowfullscreen="" frameborder="0"></iframe>
+<iframe width="100%" height="600" src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBudapest&title=Foglalts%C3%A1g&showNav=1&showDate=1&showPrint=0&showTabs=0&showCalendars=0&showTitle=0&src=NXBna2pyMGpncWtuMGtraW1vMDB0bGlqNW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73" style="border-width:0" frameborder="0" scrolling="no"></iframe>
 <!--/Naptár -->
 </div>
 
