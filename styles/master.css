@@ -81,17 +81,28 @@ main {
 
   background-color: white;
 
-  border: 1px solid #f3f3f3;
+  border-top: none;
+  border-left: 1px solid #f3f3f3;
+  border-right: 1px solid #f3f3f3;
+  border-bottom: 1px solid #f3f3f3;
   -webkit-border-radius: 0px 0px 10px 10px;
   -moz-border-radius: 0px 0px 10px 10px;
   border-radius: 0px 0px 10px 10px;
 
 }
 
+nav {
+  border-left: 1px solid #f3f3f3;
+  border-right: 1px solid #f3f3f3;
+
+  width: 80%;
+  max-width: 1000px;
+  margin: 0px auto;
+}
 
 nav ul li {
   display: inline-block;
-  
+  padding: 10px 20px 10px 20px;
 }
 
   nav ul li a {

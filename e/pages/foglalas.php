@@ -1,14 +1,9 @@
 <article>
-  <p>Az árak az idegenforgalmi adót NEM tartalmazzák !</p>
+<h1>Áraink</h1>
 
-
-  <h1>Áraink</h1>
   <p>
-    A nyaraló 1 család elhelyezésére alkalmas, 2 felnőtt + 2 gyermek vagy 2 felnőtt + max 3 gyermek
-  </p>
-  
-  <p>
-    Fishing on Orfű fesztivál idején nem foglalható!
+    A nyaraló 1 család elhelyezésére alkalmas, 2 felnőtt + 2 gyermek vagy 2 felnőtt + max 3 gyermek.<br>
+    Fishing on Orfű fesztivál idején nem foglalható! Az árak az idegenforgalmi adót NEM tartalmazzák!
   </p>
   
   <p>
