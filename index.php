@@ -62,7 +62,7 @@ endif;
       <nav>
           <ul>
             <li><a href="/">Főoldal</a></li>
-            <li><a href="/foglalas">Árak és szállás foglalás</a></li>
+            <li><a href="/foglalas">Szállás foglalás</a></li>
             <li><a href="/terkep">Térkép</a></li>
             <li>+36 (30) 492 27 44</li>
           </ul>
