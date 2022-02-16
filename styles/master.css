@@ -102,14 +102,14 @@ nav {
 
 nav ul {
   position: absolute;
-  left: -200px;
+  right: 100%;
   width: 200px;
   text-align: right;
   margin-top: 1.5rem;
 }
 
 nav ul li {
-  display: inline-block;
+  display: block;
   margin: 10px 10px 10px 10px;
   font-weight: 700;
   font-size: 1.5rem;
@@ -134,6 +134,19 @@ nav ul li {
     nav ul li a:hover {
       background-color: rgba(128,111,162,1);
       color: white;
+    }
+
+    @media only screen and (max-width: 1300px) {
+      nav ul {
+        position: absolute;
+        right: 100%;
+        width: 200px;
+        text-align: right;
+      }
+      
+      nav ul li {
+        display: block;
+      }
     }
 
 
