@@ -58,7 +58,7 @@ endif;
 
       <header>
         <a hfref="/">
-          Levendula nyaraló
+          Levendula nyaraló<br>
           Orfű
         </a>
       </header>
@@ -71,7 +71,6 @@ endif;
           </ul>
         </nav>
       <main class="main-center">
-        <h1>Levendula nyaraló - Orfű</h1>
         <?php
           
             include $page['file'];

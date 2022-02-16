@@ -47,6 +47,12 @@ header {
   border-radius: 10px 10px 0px 0px;
 }
 
+  header a {
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
 main {
   width: 80%;
   max-width: 1000px;
@@ -113,18 +119,18 @@ article {
   line-height: 2rem;
 }
 
-p {
-  margin-bottom: 2rem;
-}
-
-a {
-  color: grey;
-  text-decoration: none;
-}
-
-  a:hover {
-    color: black;
+  article p {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
   }
+
+    article a {
+      color: black;
+      text-decoration: underline;
+    }
+      article a:hover {
+        color: rgb(84, 0, 219);
+      }
 
 h1 {
   font-size: 2rem;
