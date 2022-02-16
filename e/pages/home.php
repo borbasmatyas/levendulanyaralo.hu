@@ -1,18 +1,29 @@
+<div class="head-image">
 
-<p>Orfű központjában az Ady Endre utcában található a levendula vendégház.</p>
+</div>
 
-<p>Közelében  néhány perces sétával  orvosi rendelő, posta, élelmiszer bolt és éttermek találhatóak. </p>
+<article>
+  <p>
+    Orfű központjában az Ady Endre utcában található a levendula vendégház.
+    Közelében  néhány perces sétával  orvosi rendelő, posta, élelmiszer bolt és éttermek találhatóak.
+    Nyugodt, csendes környezet 600 m2-es kerttel.
+  </p>
 
-<p>Nyugodt, csendes környezet 600 m2-es kerttel. </p>
+  <p>
+    Az Orfűi-tó-tól 1 percre ahol napi jeggyel horgászni is lehet. A 2011-ben elkészült Aquapark megközelíthető - autóval 5 perc vagy a tóparti sétányon gyönyörű környezetben kényelmesen 30 perc.</p>
+    A nyaraló előtt halad el a Pécs-Orfű kerékpárút amin kb: 90 perc alatt elérhető Pécs. </p>
+  </p>
 
-<p>Az Orfűi-tó-tól 1 percre ahol napi jeggyel horgászni is lehet. A 2011-ben elkészült Aquapark megközelíthető - autóval 5 perc vagy a tóparti sétányon gyönyörű környezetben kényelmesen 30 perc.</p>
+  <p>
+    Felszereltsége: 30 m2-es nyaraló, 2 felnőtt + max. 3 gyerek részére. Egylégterű szoba 1 franciaággyal és 1 emeletes ággyal. Fürdőszoba - zuhanyzóval.</p>
+    A kertben hinta, kerti-sütő, kerti zuhanyzó.
+  </p>
 
-<p>A nyaraló előtt halad el a Pécs-Orfű kerékpárút amin kb: 90 perc alatt elérhető Pécs. </p>
+  <p>
+    Széchenyi-pihenőkártyával fizethető a szállás díja.
+  </p>
 
-<p>Felszereltsége: 30 m2-es nyaraló, 2 felnőtt + max. 3 gyerek részére. Egylégterű szoba 1 franciaággyal és 1 emeletes ággyal. Fürdőszoba - zuhanyzóval.</p>
-
-<p>A kertben hinta, kerti-sütő, kerti zuhanyzó.</p>
-
-<p>Széchenyi-pihenőkártyával fizethető a szállás díja.</p>
-
-<p>Kisállat nem vihető be.</p>
+  <p>
+    Kisállat nem vihető be.
+  </p>
+</article>

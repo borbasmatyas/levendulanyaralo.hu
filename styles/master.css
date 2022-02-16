@@ -76,6 +76,7 @@ footer a {
 
 p {
   margin-bottom: 0.5rem;
+  font-size: 1.5rem;
 }
 
 form {
@@ -208,7 +209,7 @@ h2 {
 
 
 nav ul li a {
-  display: block;
+  display: inline-block;
   width:auto;
   padding: 10px 10px 10px 10px;
   margin: 10px 0px 10px 0px;
