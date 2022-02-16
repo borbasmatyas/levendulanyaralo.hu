@@ -84,7 +84,7 @@ endif;
 
       <div id="info">
         <div>Az oldal jelenleg feltöltés alatt áll.</div>
-      </div
+    </div>
 
 
     <!-- Scriptek -->  

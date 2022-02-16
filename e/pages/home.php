@@ -19,11 +19,11 @@
   </p>
 
   <p>
-    ℹ️ Széchenyi-pihenőkártyával fizethető a szállás díja.
+    Széchenyi-pihenőkártyával fizethető a szállás díja.
   </p>
 
   <p>
-   ⛔ Kisállat nem vihető be.
+   Kisállat nem vihető be.
   </p>
 
   <img src="/images/kep_03.jpg" alt="Kert" width="100%" style="clear:both;">
