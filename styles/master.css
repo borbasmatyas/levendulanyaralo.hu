@@ -64,14 +64,6 @@ header {
     line-height: 4rem;
   }
 
-  @media only screen and (max-width: 850px) {
-    header a {
-      font-size: 4rem;
-      bottom: -0.5rem;
-    }
-  }
-
-
 main {
   width: 80%;
   max-width: 900px;
@@ -133,30 +125,7 @@ nav ul li {
       color: white;
     }
 
-    @media only screen and (max-width: 1300px) {
-      nav {
-        padding-left: 20px;
-      }
-        nav ul {
-          position: relative;
-          right: auto;
-          width: 100%;
-          text-align: left;
-        }
 
-          nav ul li {
-            display: inline-block;
-          }
-
-            nav ul li a {
-              display: inline-block;
-              width:auto;
-              padding: 10px 10px 10px 10px;
-              background-color: rgba(128,111,162,0.1);
-              color: black;
-              text-decoration: none;
-            }
-    }
 
 
 footer {
@@ -240,7 +209,53 @@ h2 {
   color: #ca0000;
 }
 
+img.jobb {
+  float:right;
+}
+
+img.bal {
+  float:left;
+}
+
+img.szovegkozi {
+  max-width: 250px;
+  width: calc(50% -40px);
+
+}
 
 
 
+@media only screen and (max-width: 1300px) {
+  nav {
+    padding-left: 20px;
+  }
+    nav ul {
+      position: relative;
+      right: auto;
+      width: 100%;
+      text-align: left;
+    }
 
+      nav ul li {
+        display: inline-block;
+      }
+
+        nav ul li a {
+          display: inline-block;
+          width:auto;
+          padding: 10px 10px 10px 10px;
+          background-color: rgba(128,111,162,0.1);
+          color: black;
+          text-decoration: none;
+        }
+}
+
+@media only screen and (max-width: 850px) {
+
+
+
+  header a {
+    font-size: 4rem;
+    bottom: -0.5rem;
+  }
+}
