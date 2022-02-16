@@ -129,11 +129,11 @@ nav ul li {
 
 
     nav ul li a.tel {
-      background-color: white;
+      background-color: transparent;
       color: black;
     }
       nav ul li a.tel:hover {
-        background-color: white;
+        background-color: transparent;
         color: rgba(128,111,162,1);
       }
 
