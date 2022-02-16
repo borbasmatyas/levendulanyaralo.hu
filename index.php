@@ -51,14 +51,9 @@ endif;
 
   <body>
       <main class="main-center rounded-main">
-        <?php
-          
-            include $page['file'];
-          
-        ?>
-      </main>
-      <aside>
-        <nav>
+        <h1>Levendula nyaraló</h1>
+        <h2>Orfű</h2>
+      <nav>
           <ul>
             <li><a href="/">Főoldal</a></li>
             <li><a href="/kepek">Képek</a></li>
@@ -66,6 +61,15 @@ endif;
             <li><a href="/terkep">Térkép</a></li>
           </ul>
         </nav>
+
+        <?php
+          
+            include $page['file'];
+          
+        ?>
+      </main>
+      <aside>
+        
       </aside>
       <footer>
       <p>Erdősiné Albert Andrea | +36 (30) 492 27 44 </p>
