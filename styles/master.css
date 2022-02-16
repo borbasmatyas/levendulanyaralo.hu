@@ -30,6 +30,8 @@ div#info {
   }
 
 header {
+  width: 90%;
+  max-width: 1000px;
   margin: 50px auto;
   background-image: url('/images/levendula.jpg');
   background-size: cover;
