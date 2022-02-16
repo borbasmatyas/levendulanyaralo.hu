@@ -7,8 +7,6 @@ RewriteBase "/"
 # Itt lényegében mindent átadunk az URL-ből a PHP-nek, aztán az majd jól megoldja...
 # Bármi ami a / után van, ha nem fájlhoz vezet (azaz nem fájl), akkor az index.php-hez kerül
 
-RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
