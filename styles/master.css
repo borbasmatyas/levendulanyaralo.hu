@@ -92,12 +92,12 @@ main {
 }
 
 nav {
-  border-left: 1px solid #f3f3f3;
-  border-right: 1px solid #f3f3f3;
-
-  width: 80%;
   max-width: 1000px;
   margin: 0px auto;
+  padding: 5px 20px 5px 20px;
+  border-left: 1px solid #f3f3f3;
+  border-right: 1px solid #f3f3f3;
+  background-color: white;
 }
 
 nav ul li {
