@@ -121,10 +121,22 @@ nav ul li {
     color: white;
     text-decoration: none;
   }
+
     nav ul li a:hover {
       background-color: rgba(128,111,162,1);
       color: white;
     }
+
+
+    nav ul li a.tel {
+      background-color: white;
+      color: black;
+    }
+      nav ul li a.tel:hover {
+        background-color: white;
+        color: rgba(128,111,162,1);
+      }
+
 
 footer {
   font-family: Verdana, Geneva, Tahoma, sans-serif;

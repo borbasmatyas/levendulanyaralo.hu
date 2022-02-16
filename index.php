@@ -64,7 +64,7 @@ endif;
             <li><a href="/">Főoldal</a></li>
             <li><a href="/foglalas">Szállás foglalás</a></li>
             <li><a href="/terkep">Térkép</a></li>
-            <li>+36 (30) 492 27 44</li>
+            <li><a href="tel:+36304922744" class="tel">+36 (30) 492 27 44</a></li>
           </ul>
       </nav>
       <main class="main-center">
