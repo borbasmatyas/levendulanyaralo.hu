@@ -1,4 +1,4 @@
-<rticle>
+<article>
   <p>Az árak az idegenforgalmi adót NEM tartalmazzák !</p>
 
 
