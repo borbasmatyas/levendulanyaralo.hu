@@ -49,8 +49,11 @@ header {
 
   header a {
     color: white;
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: 700;
+    display: block;
+    bottom: 0px;
+    left: 20px;
   }
 
 main {
