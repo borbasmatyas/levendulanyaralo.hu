@@ -1,0 +1,9 @@
+.urlap,
+.show,
+.hide:target {
+  display: none;
+}
+.hide:target + .show,
+.hide:target ~ .urlap {
+  display: block;
+}
