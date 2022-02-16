@@ -18,13 +18,16 @@ body {
 
 div#info {
   width: 100%;
-  position: absolute;
-  top:0px;
-  background-color: #ca0000;
+  position: fixed;
+  top: 0px;
+  background-color: rgba(202, 0, 0, 0.8);
   color:white;
-  padding: 4px 4px 4px 4px;
   text-align: center;
 }
+
+  div#info div {
+    padding: 4px 4px 4px 4px;
+  }
 
 main {
   background-color: white;
