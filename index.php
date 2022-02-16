@@ -30,10 +30,11 @@ endif;
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!--
     <link rel="stylesheet" href="/styles/vendor/normalize/normalize.css">
     <link rel="stylesheet" href="/styles/vendor/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="/styles/vendor/reset/reset.css">
-
+    -->
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -50,7 +51,7 @@ endif;
   </head>
 
   <body>
-      <div id="info">Az oldal jelenleg feltöltés alatt áll.</div>
+
 
       <main class="main-center rounded-main">
         <h1>Levendula nyaraló - Orfű</h1>
@@ -78,12 +79,16 @@ endif;
 
       </footer>
 
+      <div id="info">Az oldal jelenleg feltöltés alatt áll.</div>
+
+
     <!-- Scriptek -->  
+    <!--
       <script src="scripts/vendor/jquery/jquery-3.5.1.min.js"></script>
       <script src="scripts/vendor/bootstrap/bootstrap.min.js"></script>
       <script src="scripts/vendor/modernizr/modernizr-custom.js"></script>
-
       <script src="https://unpkg.com/@popperjs/core@2"></script>
+    -->
     <!-- Scriptek (vége) -->
 
   </body>
