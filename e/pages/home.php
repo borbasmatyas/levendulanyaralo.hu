@@ -25,8 +25,8 @@
   </p>
 
 
-  <img src="/images/kep_01.jpg" alt="Terasz">
-  <img src="/images/kep_02.jpg" alt="Terasz">
-  <img src="/images/kep_03.jpg" alt="Kert">
+  <img src="/images/kep_01.jpg" alt="Terasz" width="40%" style="float:left;">
+  <img src="/images/kep_02.jpg" alt="Terasz" width="40%" style="float:right;">
+  <img src="/images/kep_03.jpg" alt="Kert" width="100%" style="clear:both;">
 
 </article>
