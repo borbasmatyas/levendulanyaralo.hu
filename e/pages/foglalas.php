@@ -1,7 +1,7 @@
 <div style="clear:both;">
 <!-- Naptár -->
 <iframe width="100%" height="500px" jsname="L5Fo6c" class="YMEQtf KfXz0b" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads allow-modals" aria-label="Calendar" src="https://www.google.com/calendar/embed?color=%23668CD9&amp;deb=-&amp;embed_style=WyJhdDplbWI6c3QiLCIjZTBlMGUwIiwiI2VkZWRlZCIsIiM0MTg0ZjMiLCJyb2JvdG8iLCIjNjM2MzYzIiw1MDAsIiNmZmYiXQo&amp;eopt=0&amp;mode=agenda&amp;showCalendars=1&amp;showPrint=0&amp;showTz=0&amp;src=5pgkjr0jgqkn0kkimo00tlij5o@group.calendar.google.com" allowfullscreen="" frameborder="0"></iframe>
-<!-- / Naptár -->
+<!--/Naptár -->
 </div>
 
 <p>Az árak az idegenforgalmi adót NEM tartalmazzák !</p>
@@ -32,5 +32,6 @@
 
 
 <p>Az online szobafoglalás elküldése nem jelenti a biztos foglalást, ezáltal csak az igényét juttatja el hozzánk. A foglalás az előleg beérkezésével, és írásos visszaigazolással válik véglegessé! Kérjük, adja meg pontosan minden adatát! Adatait bizalmasan kezeljük, harmadik fél számára nem adjuk ki!</p>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSercNM5-9PauO8vxgPQtL-Bk6Npz1jlsf-P1mvaGgj37Ukz2g/viewform?embedded=true" width="100%" height="1548" frameborder="0" marginheight="0" marginwidth="0">Betöltés…</iframe>
+<!-- Foglalási űrlap -->
+<iframe width="100%" height="1800" src="https://docs.google.com/forms/d/e/1FAIpQLSercNM5-9PauO8vxgPQtL-Bk6Npz1jlsf-P1mvaGgj37Ukz2g/viewform?embedded=true"  frameborder="0" marginheight="0" marginwidth="0">Betöltés…</iframe>
+<!--/Foglalási űrlap -->
