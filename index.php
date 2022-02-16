@@ -57,6 +57,10 @@ endif;
   <body>
 
       <header>
+        <a hfref="/">
+          Levendula nyaraló
+          Orfű
+        </a>
       </header>
       <nav>
           <ul>
@@ -78,9 +82,8 @@ endif;
         
       </aside>
       <footer>
-      <p>Erdősiné Albert Andrea | +36 (30) 492 27 44 </p>
-      <p><span class="bold">NTAK regisztrációs szám:</span> EG 19006056 <span class="italic"> magánszálláshely</span></p>
-
+        Erdősiné Albert Andrea | +36 (30) 492 27 44 <br>
+        NTAK regisztrációs szám:</span> EG 19006056 magánszálláshely
       </footer>
 
       <div id="info">
