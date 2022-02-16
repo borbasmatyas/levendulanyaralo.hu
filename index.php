@@ -82,10 +82,11 @@ endif;
         NTAK regisztrációs szám:</span> EG 19006056 magánszálláshely
       </footer>
 
+      <!--
       <div id="info">
         <div>Az oldal jelenleg feltöltés alatt áll.</div>
-    </div>
-
+      </div>
+      -->
 
     <!-- Scriptek -->  
 
