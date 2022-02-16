@@ -24,9 +24,13 @@
     Kisállat nem vihető be.
   </p>
 
+  <p>
+    <img src="/images/kep_01.jpg" alt="Terasz" width="45%" style="float:left;">
+    <img src="/images/kep_02.jpg" alt="Terasz" width="45%" style="float:right;">
+  </p>
+  <p>
+    <img src="/images/kep_03.jpg" alt="Kert" width="100%" style="clear:both;">
+  </p>  
 
-  <img src="/images/kep_01.jpg" alt="Terasz" width="40%" style="float:left;">
-  <img src="/images/kep_02.jpg" alt="Terasz" width="40%" style="float:right;">
-  <img src="/images/kep_03.jpg" alt="Kert" width="100%" style="clear:both;">
 
 </article>
