@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    Az Orfűi-tó-tól 1 percre ahol napi jeggyel horgászni is lehet. A 2011-ben elkészült Aquapark megközelíthető - autóval 5 perc vagy a tóparti sétányon gyönyörű környezetben kényelmesen 30 perc.</p>
+    Az Orfűi-tó-tól 1 percre ahol napi jeggyel horgászni is lehet. A 2011-ben elkészült Aquapark megközelíthető - autóval 5 perc vagy a tóparti sétányon gyönyörű környezetben kényelmesen 30 perc.
     A nyaraló előtt halad el a Pécs-Orfű kerékpárút amin kb: 90 perc alatt elérhető Pécs. 
   </p>
 

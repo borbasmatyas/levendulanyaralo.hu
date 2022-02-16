@@ -45,6 +45,10 @@ endif;
     <link rel="stylesheet" href="/styles/master.css?<?php echo date('U'); ?>">
     <link rel="stylesheet" href="/styles/<?php echo $page['name']; ?>.css?<?php echo date('U'); ?>">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;700&display=swap" rel="stylesheet"> 
+
     <title><?php echo $title; ?></title>
     <meta name="description" content="Weboldal">
 
