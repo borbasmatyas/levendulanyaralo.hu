@@ -211,16 +211,19 @@ h2 {
 
 img.jobb {
   float:right;
+  margin-left: 20px;
+  margin-bottom: 5px;
 }
 
 img.bal {
   float:left;
+  margin-right: 20px;
+  margin-bottom: 5px;
 }
 
 img.szovegkozi {
   max-width: 250px;
-  width: calc(50% -40px);
-
+  width: calc(50% -60px);
 }
 
 
