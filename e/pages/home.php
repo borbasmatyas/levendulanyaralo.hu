@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    Felszereltsége: 30 m2-es nyaraló, 2 felnőtt + max. 3 gyerek részére. Egylégterű szoba 1 franciaággyal és 1 emeletes ággyal. Fürdőszoba - zuhanyzóval.
+    Felszereltsége: 30 m<sup>2</sup>-es nyaraló, 2 felnőtt + max. 3 gyerek részére. Egylégterű szoba 1 franciaággyal és 1 emeletes ággyal. Fürdőszoba - zuhanyzóval.
     A kertben hinta, kerti-sütő, kerti zuhanyzó.
   </p>
 
@@ -23,4 +23,10 @@
   <p>
     Kisállat nem vihető be.
   </p>
+
+
+  <img src="/images/kep_01.jpg" alt="Terasz">
+  <img src="/images/kep_02.jpg" alt="Terasz">
+  <img src="/images/kep_03.jpg" alt="Kert">
+
 </article>
