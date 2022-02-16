@@ -120,7 +120,7 @@ nav ul li {
 
   }
     nav ul li a:hover {
-      background-color: #1f5887;
+      background-color: #806fa2;
       color: white;
     }
 
@@ -159,7 +159,7 @@ article {
       text-decoration: underline;
     }
       article a:hover {
-        color: rgb(84, 0, 219);
+        color: #806fa2;
       }
 
 h1 {
