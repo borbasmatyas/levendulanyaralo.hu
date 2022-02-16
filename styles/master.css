@@ -188,6 +188,10 @@ h2 {
   font-weight: bold;
 }
 
+.italic {
+  font-style: italic;;
+}
+
 .red {
   color: #ca0000;
 }
@@ -232,17 +236,6 @@ h2 {
   font-family: monospace;
   font-size: 1em;
   padding: 3px 3px 3px 3px;
-}
-
-#branch {
-  position: fixed;
-  top:25px;
-  right:0px;
-  width:auto;
-  padding: 5px 5px 5px 5px;
-  background-color: black;
-  color: white;
-  font-size: 0.8rem;
 }
 
 
