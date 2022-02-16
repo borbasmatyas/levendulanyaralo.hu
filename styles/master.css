@@ -67,7 +67,7 @@ header {
   @media only screen and (max-width: 850px) {
     header a {
       font-size: 4rem;
-      bottom: -0.3rem;
+      bottom: -0.5rem;
     }
   }
 
@@ -91,7 +91,7 @@ main {
 
 nav ul li {
   display: inline-block;
-  display: none;
+  
 }
 
   nav ul li a {
