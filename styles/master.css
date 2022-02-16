@@ -134,24 +134,28 @@ nav ul li {
     }
 
     @media only screen and (max-width: 1300px) {
-      nav ul {
-        position: relative;
-        width: 100%;
-        text-align: left;
+      nav {
+        padding-left: 20px;
       }
-
-        nav ul li {
-          display: inline-block;
+        nav ul {
+          position: relative;
+          right: auto;
+          width: 100%;
+          text-align: left;
         }
 
-          nav ul li a {
+          nav ul li {
             display: inline-block;
-            width:auto;
-            padding: 10px 10px 10px 10px;
-            background-color: rgba(128,111,162,0.1);
-            color: black;
-            text-decoration: none;
           }
+
+            nav ul li a {
+              display: inline-block;
+              width:auto;
+              padding: 10px 10px 10px 10px;
+              background-color: rgba(128,111,162,0.1);
+              color: black;
+              text-decoration: none;
+            }
     }
 
 
