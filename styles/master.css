@@ -94,6 +94,7 @@ main {
 nav {
   position: relative;
   max-width: 900px;
+  width: 80%;
   margin: 0px auto;
   padding: 5px 20px 5px 0px;
   border-left: 1px solid #f3f3f3;
@@ -134,14 +135,13 @@ nav ul li {
 
     @media only screen and (max-width: 1300px) {
       nav ul {
-        position: absolute;
-        right: 100%;
-        width: 200px;
-        text-align: right;
+        position: relative;
+        width: 100%;
+        text-align: left;
       }
 
         nav ul li {
-          display: block;
+          display: inline-block;
         }
 
           nav ul li a {
