@@ -57,13 +57,12 @@ endif;
   <body>
 
       <header>
-        <a hfref="/">Levendula nyaraló</a>
+        <a href="/" title="Vissza a kezdőalpra">Levendula nyaraló</a>
       </header>
       <nav>
           <ul>
             <li><a href="/">Főoldal</a></li>
-            <li><a href="/kepek">Képek</a></li>
-            <li><a href="/foglalas">Szállás foglalás</a></li>
+            <li><a href="/foglalas">Árak és szállás foglalás</a></li>
             <li><a href="/terkep">Térkép</a></li>
           </ul>
         </nav>
