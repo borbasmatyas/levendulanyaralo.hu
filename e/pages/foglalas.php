@@ -32,13 +32,9 @@
 
 <p>Az online szobafoglalás elküldése nem jelenti a biztos foglalást, ezáltal csak az igényét juttatja el hozzánk. A foglalás az előleg beérkezésével, és írásos visszaigazolással válik véglegessé! Kérjük, adja meg pontosan minden adatát! Adatait bizalmasan kezeljük, harmadik fél számára nem adjuk ki!</p>
 
-<a href="#urlap"class="hide">Foglalási űrlap megnyitása</a>
-<a href="#urlap"class="show">Foglalási űrlap elrejtése</a>
 
-<div id="urlap" class="urlap">
 
-  <!-- Foglalási űrlap -->
-    <iframe width="100%" height="1800" src="https://docs.google.com/forms/d/e/1FAIpQLSercNM5-9PauO8vxgPQtL-Bk6Npz1jlsf-P1mvaGgj37Ukz2g/viewform?embedded=true"  frameborder="0" marginheight="0" marginwidth="0">Betöltés…</iframe>
-  <!--/Foglalási űrlap -->
+<!-- Foglalási űrlap -->
+  <iframe width="100%" height="1800" src="https://docs.google.com/forms/d/e/1FAIpQLSercNM5-9PauO8vxgPQtL-Bk6Npz1jlsf-P1mvaGgj37Ukz2g/viewform?embedded=true"  frameborder="0" marginheight="0" marginwidth="0">Betöltés…</iframe>
+<!--/Foglalási űrlap -->
 
-</div>
