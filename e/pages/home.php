@@ -1,6 +1,3 @@
-<div class="head-image">
-
-</div>
 
 <article>
   <p>
@@ -11,11 +8,11 @@
 
   <p>
     Az Orfűi-tó-tól 1 percre ahol napi jeggyel horgászni is lehet. A 2011-ben elkészült Aquapark megközelíthető - autóval 5 perc vagy a tóparti sétányon gyönyörű környezetben kényelmesen 30 perc.</p>
-    A nyaraló előtt halad el a Pécs-Orfű kerékpárút amin kb: 90 perc alatt elérhető Pécs. </p>
+    A nyaraló előtt halad el a Pécs-Orfű kerékpárút amin kb: 90 perc alatt elérhető Pécs. 
   </p>
 
   <p>
-    Felszereltsége: 30 m2-es nyaraló, 2 felnőtt + max. 3 gyerek részére. Egylégterű szoba 1 franciaággyal és 1 emeletes ággyal. Fürdőszoba - zuhanyzóval.</p>
+    Felszereltsége: 30 m2-es nyaraló, 2 felnőtt + max. 3 gyerek részére. Egylégterű szoba 1 franciaággyal és 1 emeletes ággyal. Fürdőszoba - zuhanyzóval.
     A kertben hinta, kerti-sütő, kerti zuhanyzó.
   </p>
 

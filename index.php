@@ -52,9 +52,8 @@ endif;
 
   <body>
 
-
-      <main class="main-center">
-        <h1>Levendula nyaraló - Orfű</h1>
+      <header>
+      </header>
       <nav>
           <ul>
             <li><a href="/">Főoldal</a></li>
@@ -63,7 +62,8 @@ endif;
             <li><a href="/terkep">Térkép</a></li>
           </ul>
         </nav>
-
+      <main class="main-center">
+        <h1>Levendula nyaraló - Orfű</h1>
         <?php
           
             include $page['file'];
