@@ -30,6 +30,7 @@ div#info {
   }
 
 header {
+  position: relative;
   width: 80%;
   max-width: 1000px;
   height: 200px;
@@ -48,12 +49,17 @@ header {
 }
 
   header a {
+    position: absolute;
     color: white;
-    font-size: 3rem;
+    font-size: 5rem;
     font-weight: 700;
     display: block;
-    bottom: 0px;
-    left: 20px;
+
+    bottom: 1rem;
+
+    text-align: center;
+    text-transform: uppercase;
+    left: 10px;
   }
 
 main {
