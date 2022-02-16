@@ -60,10 +60,10 @@ endif;
       <aside>
         <nav>
           <ul>
-            <li><a href="/">Főoldal</li>
-            <li><a href="/kepek">Képek</li>
-            <li><a href="/foglalas">Szállás foglalás</li>
-            <li><a href="/terkep">Térkép</li>
+            <li><a href="/">Főoldal</a></li>
+            <li><a href="/kepek">Képek</a></li>
+            <li><a href="/foglalas">Szállás foglalás</a></li>
+            <li><a href="/terkep">Térkép</a></li>
           </ul>
         </nav>
       </aside>
