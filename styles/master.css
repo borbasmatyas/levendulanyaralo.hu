@@ -64,6 +64,14 @@ header {
     line-height: 4rem;
   }
 
+  @media only screen and (max-width: 850px) {
+    header a {
+      font-size: 4rem;
+      bottom: -0.3rem;
+    }
+  }
+
+
 main {
   width: 80%;
   max-width: 1000px;
@@ -191,8 +199,3 @@ h2 {
 
 
 
-@media only screen and (max-width: 820px) {
-  header a {
-    font-size: 3rem;
-  }
-}
