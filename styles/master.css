@@ -32,7 +32,7 @@ div#info {
 header {
   position: relative;
   width: 80%;
-  max-width: 1000px;
+  max-width: 900px;
   height: 200px;
 
   margin: 50px auto 0px auto;
@@ -74,7 +74,7 @@ header {
 
 main {
   width: 80%;
-  max-width: 1000px;
+  max-width: 900px;
 
   margin: 0px auto;
   padding: 20px 20px 20px 20px;
@@ -92,12 +92,20 @@ main {
 }
 
 nav {
-  max-width: 1000px;
+  max-width: 900px;
   margin: 0px auto;
   padding: 5px 20px 5px 20px;
   border-left: 1px solid #f3f3f3;
   border-right: 1px solid #f3f3f3;
   background-color: white;
+}
+
+nav ul {
+  position: absolute;
+  left: -200px;
+  width: 200px;
+  text-align: right;
+  margin-top: 1.5rem;
 }
 
 nav ul li {
@@ -114,7 +122,7 @@ nav ul li {
     display: inline-block;
     width:auto;
     padding: 10px 10px 10px 10px;
-    background-color: #f0f0f0;
+    background-color: rgba(128,111,162,0.5);
     color: black;
     text-decoration: none;
 
@@ -124,7 +132,7 @@ nav ul li {
 
   }
     nav ul li a:hover {
-      background-color: #806fa2;
+      background-color: rgba(128,111,162,1);
       color: white;
     }
 
