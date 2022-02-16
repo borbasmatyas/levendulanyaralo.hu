@@ -92,6 +92,7 @@ main {
 }
 
 nav {
+  position: relative;
   max-width: 900px;
   margin: 0px auto;
   padding: 5px 20px 5px 20px;
@@ -143,7 +144,7 @@ nav ul li {
         width: 200px;
         text-align: right;
       }
-      
+
       nav ul li {
         display: block;
       }
