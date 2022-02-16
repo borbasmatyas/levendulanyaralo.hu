@@ -50,16 +50,18 @@ header {
 
   header a {
     position: absolute;
+    display: block;
+    left: 10px;
+    bottom: -0.1rem;
+
     color: white;
     font-size: 5rem;
     font-weight: 700;
-    display: block;
-
-    bottom: 1rem;
 
     text-align: center;
     text-transform: uppercase;
-    left: 10px;
+
+    line-height: 4rem;
   }
 
 main {
