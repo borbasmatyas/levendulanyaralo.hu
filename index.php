@@ -79,7 +79,9 @@ endif;
 
       </footer>
 
-      <div id="info">Az oldal jelenleg feltöltés alatt áll.</div>
+      <div id="info">
+        <div>Az oldal jelenleg feltöltés alatt áll.</div>
+      </div>
 
 
     <!-- Scriptek -->  
