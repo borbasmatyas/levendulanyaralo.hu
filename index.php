@@ -81,13 +81,15 @@ endif;
       <footer>
         Erdősiné Albert Andrea | +36 (30) 492 27 44 <br>
         NTAK regisztrációs szám:</span> EG 19006056 magánszálláshely
+        
+        <div></div>
       </footer>
 
-      <!--
+      
       <div id="info">
         <div>Az oldal jelenleg feltöltés alatt áll.</div>
       </div>
-      -->
+      
 
     <!-- Scriptek -->  
 
