@@ -12,7 +12,7 @@
   </p>
 
   <p>
-    Főszezonban (június 21-től auhisztus 20-ig) minimum 3 éjszaka foglalható.<br>
+    Főszezonban (június 21-től augusztus 20-ig) minimum 3 éjszaka foglalható.<br>
     <span class="bold">31 000 Ft</span>
   </p>
 
