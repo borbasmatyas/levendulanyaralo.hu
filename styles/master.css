@@ -277,7 +277,7 @@ img.szovegkozi {
 
 }
 
-#tamogatas {
+#tamogatas >img {
   position: relative;
   margin-top: 50px;
   margin-bottom: 50px;
