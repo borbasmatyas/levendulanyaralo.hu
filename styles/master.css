@@ -278,5 +278,6 @@ img.szovegkozi {
 }
 
 #tamogatas {
+  position: relative;
   margin-top: 50px;
 }
