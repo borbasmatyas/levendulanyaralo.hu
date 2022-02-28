@@ -82,8 +82,8 @@ endif;
         Erdősiné Albert Andrea | +36 (30) 492 27 44 <br>
         NTAK regisztrációs szám:</span> EG 19006056 magánszálláshely
         
-        <div id="tamogatas" class="rounded-main">
-          <img src="/images/magyarorszag_a_csodak_forrasa.jpg" alt="Készült Magyarorszg Kormánya támogatásával.">
+        <div id="tamogatas">
+          <img src="/images/magyarorszag_a_csodak_forrasa.jpg" class="rounded-main" alt="Készült Magyarorszg Kormánya támogatásával.">
         </div>
       </footer>
 
