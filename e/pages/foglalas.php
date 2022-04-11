@@ -7,12 +7,12 @@
   </p>
   
   <p>
-    Elő-és utószezonban (június 1-től június 20-ig és augusztus 21-től szeptember 15-ig) minimum 3 éjszaka foglalható.<br>
+    Elő-és utószezonban (június 1-től június 15-ig és augusztus 21-től szeptember 15-ig) minimum 3 éjszaka foglalható.<br>
     <span class="bold">26 000 Ft</span>
   </p>
 
   <p>
-    Főszezonban (június 21-től augusztus 20-ig) minimum 3 éjszaka foglalható.<br>
+    Főszezonban (június 16-től augusztus 20-ig) minimum 3 éjszaka foglalható.<br>
     <span class="bold">31 000 Ft</span>
   </p>
 
