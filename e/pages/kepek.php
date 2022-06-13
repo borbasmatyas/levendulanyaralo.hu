@@ -8,7 +8,7 @@ $max=18;
 
 while($i <= $max) {
   echo <<<HTML
-    <img src="/images/kep_{$i}.jpg" width="100%">>;
+    <img src="/images/kep_{$i}.jpg" width="70%" style="margin:25px auto 25px auto;">;
   HTML;
   $i++;
 }
