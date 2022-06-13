@@ -2,7 +2,7 @@
 <article>
   
   <p>
-    <img src="/images/kep_01.jpg" alt="Terasz" class="szovegkozi jobb">
+    <img src="/images/kep_4.jpg" class="szovegkozi jobb">
     Orfű központjában az Ady Endre utcában található a levendula vendégház.
     Közelében  néhány perces sétával  orvosi rendelő, posta, élelmiszer bolt és éttermek találhatóak.
     Nyugodt, csendes környezet 600 m<sup>2</sup>-es kerttel.
@@ -26,7 +26,7 @@
    Kisállat nem vihető be.
   </p>
 
-  <img src="/images/kep_03.jpg" alt="Kert" width="100%" style="clear:both;">
+  <img src="/images/kep_5.jpg" width="100%" style="clear:both;">
   
 
 
